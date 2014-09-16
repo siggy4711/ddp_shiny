@@ -22,7 +22,7 @@ shinyUI(fluidPage(
                          h5("Description"),
                          "Trans Europe Express lets the user select cities to visit and the city from where the trip starts.",
                          "The shortest route will be calculated using roadtrip distances as provided by Google Maps.",
-                         h5("User Interface"),
+                         h5("Instructions"),
                          "The user has to select the cities to be visited from the given list and the city from where the trip starts.",
                          "If the starting city is not in the selection it will be added.",
                          "When desired cities and start city are selected the \"Go\" button must be pressed.",
